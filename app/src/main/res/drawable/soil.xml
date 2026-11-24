@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Bottom Soil Layer -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M0,90 Q20,80 40,90 T100,90 L100,100 L0,100 Z" />
+
+    <!-- Middle Soil Layer -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M0,70 Q20,65 40,70 T100,70 L100,90 L0,90 Z" />
+
+    <!-- Top Soil Layer -->
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M0,50 Q20,45 40,50 T100,50 L100,70 L0,70 Z" />
+
+    <!-- Small Rocks or Textures as Paths -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M15,83 A2,2 0 1,0 15,87 A2,2 0 1,0 15,83" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M45,73 A2,2 0 1,0 45,77 A2,2 0 1,0 45,73" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M70,63 A2,2 0 1,0 70,67 A2,2 0 1,0 70,63" />
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M85,78 A2,2 0 1,0 85,82 A2,2 0 1,0 85,78" />
+
+    <!-- Grass on Top of Soil -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M0,45 Q5,40 10,45 T20,45 Q25,40 30,45 T40,45 Q45,40 50,45 T60,45 Q65,40 70,45 T80,45 Q85,40 90,45 T100,45 L100,50 L0,50 Z" />
+</vector>

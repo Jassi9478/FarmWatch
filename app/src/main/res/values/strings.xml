@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FarmWatch</string>
+    <string name="default_web_client_id">AIzaSyAwpXJZ8D-I0wIkaTZZ3WymKirOJChBjK0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_map_api_key">AIzaSyBMjREHHbgPYkR4afGeU71djDLz-tbvFn4</string>
+</resources>
